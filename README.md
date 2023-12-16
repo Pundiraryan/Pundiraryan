@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Aryan Pundir from National Institute of Technology Kurkshetra <br><br>- 🔭 I’m am a passionate web developer and competitive programmer <br>- 📚 I'm currently learning ....<br>- ⚡ In my free time I just chill </p>
 
 ###
 

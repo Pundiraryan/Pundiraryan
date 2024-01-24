@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/65649115/219759150-cc75022c-0325-4eb1-91ca-fd55e2349458.gif)](https://github.com/anupam6335)
+[![MasterHead](https://user-images.githubusercontent.com/65649115/219759150-cc75022c-0325-4eb1-91ca-fd55e2349458.gif)](https://github.com/Pundiraryan)
 
 <h1 align="center">Hi 👋, I'm Aryan Pundir</h1>
 <h3 align="center">A passionate Web Developer and Competitive Programmmer</h3>

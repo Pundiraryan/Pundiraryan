@@ -14,9 +14,6 @@
 
 # 📊 GitHub Stats:
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pundiraryan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" align="center" style="width: 51%" /></div>  
-<br/>
-
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pundiraryan&theme=tokyonight&hide_border=true" align="center" style="width: 51%" /></div>  
 <br/>
 
